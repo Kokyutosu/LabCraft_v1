@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="LabCraft_v1.AppHost/LabCraft_v1.AppHost.csproj" />
+  <Project Path="LabCraft_v1.ServiceDefaults/LabCraft_v1.ServiceDefaults.csproj" />
+  <Project Path="LabCraft_v1/LabCraft_v1.Shared/LabCraft_v1.Shared.csproj" />
+  <Project Path="LabCraft_v1/LabCraft_v1.Web.Client/LabCraft_v1.Web.Client.csproj" />
+  <Project Path="LabCraft_v1/LabCraft_v1.Web/LabCraft_v1.Web.csproj" />
+  <Project Path="LabCraft_v1/LabCraft_v1/LabCraft_v1.csproj" />
+</Solution>
